@@ -1,0 +1,7 @@
+{
+    "name": "nicosalvadore/snipeit-consumable-checkout",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
